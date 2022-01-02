@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ORYe1MajzdM1w8+8w0gdvmTGQH0bs/qkTe1rOt/pOpankIq4TQDtasZJnX55hGSyGdPOtYsOyE3oeLOMYYOJQA==",
+  "dgSpecHash": "VRnVkj2gzFpLGxBjpsoz1wVw7IYWn6ZzMjCfDzaoKnHf2VhOkjEjEzRryRwFC31kKi8EuECqCJVDgHb/c4/Qpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\andmo\\Documents\\GitHub\\ClearSolution\\Notes.WebApi\\Notes.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andmo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\andmo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\andmo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\andmo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\andmo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
