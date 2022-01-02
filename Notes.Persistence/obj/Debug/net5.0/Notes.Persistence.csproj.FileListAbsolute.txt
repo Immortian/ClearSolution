@@ -1,0 +1,17 @@
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\bin\Debug\net5.0\Notes.Persistence.deps.json
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\bin\Debug\net5.0\Notes.Persistence.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\bin\Debug\net5.0\ref\Notes.Persistence.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\bin\Debug\net5.0\Notes.Persistence.pdb
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\bin\Debug\net5.0\Notes.Application.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\bin\Debug\net5.0\Notes.Domain.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\bin\Debug\net5.0\Notes.Application.pdb
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\bin\Debug\net5.0\Notes.Domain.pdb
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.csproj.AssemblyReference.cache
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.AssemblyInfoInputs.cache
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.AssemblyInfo.cs
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.csproj.CopyComplete
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\ref\Notes.Persistence.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.pdb
