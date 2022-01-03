@@ -1,8 +1,8 @@
-﻿namespace Notes.Persistence
+﻿namespace Notes.Identity.Data
 {
     public class DBInitializer
     {
-        public static void Initialize(NotesDBContext context)
+        public static void Initialize(AuthDbContext context)
         {
             context.Database.EnsureCreated();
         }
