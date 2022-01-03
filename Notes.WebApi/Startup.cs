@@ -9,6 +9,7 @@ using Notes.Application;
 using Notes.Persistence;
 using Microsoft.Extensions.Configuration;
 using Notes.WebApi.Middleware;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 namespace Notes.WebApi
 {
@@ -36,6 +37,17 @@ namespace Notes.WebApi
                     policy.AllowAnyOrigin();
                 });
             });
+
+            services.AddAuthentication(config =>
+            {
+                config.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                config.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            }).AddJwtBearer("Bearer", optons =>
+                {
+                    optons.Authority = "https://localhost:44366/";
+                    optons.Audience = "NotesWebAPI";
+                    optons.RequireHttpsMetadata = false;
+                });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,6 +62,8 @@ namespace Notes.WebApi
             app.UseRouting();
             app.UseHttpsRedirection();
             app.UseCors("AllowAll");
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {

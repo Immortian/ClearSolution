@@ -1,0 +1,14 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Notes.Identity.Data.Model
+{
+    public class LoginViewModel
+    {
+        [Required]
+        public string Username { get; set; }
+        [Required]
+        [DataType(DataType.Password)]
+        public string Passwprd { get; set; }
+        public string ReturnUrl { get; set; }
+    }
+}

@@ -26,7 +26,6 @@ C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Micr
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -68,3 +67,4 @@ C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\obj\Debug\net5.0\Note
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.genruntimeconfig.cache
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\FluentValidation.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
