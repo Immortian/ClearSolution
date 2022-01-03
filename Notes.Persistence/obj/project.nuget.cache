@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0FDC99jXASuWcIUEHyfTHfH2QhYjtt2H5IlFKCvSS4wYNRNDh4F8Shj1EPvf/NklQ6WdT6HyEDdy0Wj3G8ew8g==",
+  "dgSpecHash": "AE9Ow1tDmVea9jQPYK7Y/oi92FnRedZ9y9cs7ePdWScVG35Tfa3RJqm3crNN79OyvSnELuL6MfKES17ERIClhA==",
   "success": true,
   "projectFilePath": "C:\\Users\\andmo\\Documents\\GitHub\\ClearSolution\\Notes.Persistence\\Notes.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andmo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\andmo\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\andmo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\andmo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\andmo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\andmo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

@@ -15,3 +15,6 @@ C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\ref\Notes.Persistence.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.pdb
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\bin\Debug\net5.0\Notes.Persistence.runtimeconfig.json
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\bin\Debug\net5.0\Notes.Persistence.runtimeconfig.dev.json
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.genruntimeconfig.cache
