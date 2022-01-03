@@ -8,6 +8,7 @@ using System.Reflection;
 using Notes.Application;
 using Notes.Persistence;
 using Microsoft.Extensions.Configuration;
+using Notes.WebApi.Middleware;
 
 namespace Notes.WebApi
 {
@@ -45,6 +46,7 @@ namespace Notes.WebApi
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCustomExceptionHandler();
             app.UseRouting();
             app.UseHttpsRedirection();
             app.UseCors("AllowAll");

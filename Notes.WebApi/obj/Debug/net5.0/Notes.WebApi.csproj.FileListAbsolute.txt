@@ -66,3 +66,5 @@ C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\obj\Debug\net5.0\Note
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\obj\Debug\net5.0\ref\Notes.WebApi.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.pdb
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.genruntimeconfig.cache
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
