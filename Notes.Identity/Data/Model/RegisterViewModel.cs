@@ -12,11 +12,11 @@ namespace Notes.Identity.Data.Model
         public string Username { get; set; }
         [Required]
         [DataType(DataType.Password)]
-        public string Passwprd { get; set; }
+        public string Password { get; set; }
         [Required]
         [DataType(DataType.Password)]
         [Compare("Password")]
-        public string ConfirmPasswprd { get; set; }
+        public string ConfirmPassword { get; set; }
         public string ReturnUrl { get; set; }
     }
 }

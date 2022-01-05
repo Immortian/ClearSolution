@@ -16,7 +16,7 @@ namespace Notes.Identity.Controllers
         private readonly IIdentityServerInteractionService _interactionService;
 
         public AuthController(SignInManager<AppUser> signInManager, UserManager<AppUser> userManager, IIdentityServerInteractionService interactionService) =>
-            (signInManager, userManager, interactionService) = (_signInManager, _userManager, _interactionService);
+            (_signInManager, _userManager, _interactionService) = (signInManager, userManager, interactionService);
 
         [HttpGet]
         public IActionResult Login(string returnUrl)
@@ -72,7 +72,7 @@ namespace Notes.Identity.Controllers
                 UserName = viewModel.Username
             };
 
-            var result = await _userManager.CreateAsync(user, viewModel.Passwprd);
+            var result = await _userManager.CreateAsync(user, viewModel.Password);
             if (result.Succeeded)
             {
                 await _signInManager.SignInAsync(user, false);
