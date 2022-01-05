@@ -68,3 +68,8 @@ C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\obj\Debug\net5.0\Note
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\FluentValidation.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.MvcApplicationPartsAssemblyInfo.cs
