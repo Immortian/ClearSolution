@@ -6,7 +6,7 @@ using Notes.Application.Intarfaces;
 
 namespace Notes.Application.Notes.Commands.CreateNote
 {
-    class CreateNoteCommandHandler : IRequestHandler<CreateNoteCommand, Guid>
+    public class CreateNoteCommandHandler : IRequestHandler<CreateNoteCommand, Guid>
     {
         private readonly INotesDBContext _dbContext;
         public CreateNoteCommandHandler(INotesDBContext dBContext) =>

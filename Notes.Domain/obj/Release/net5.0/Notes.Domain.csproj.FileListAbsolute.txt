@@ -1,0 +1,12 @@
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\bin\Release\net5.0\Notes.Domain.deps.json
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\bin\Release\net5.0\Notes.Domain.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\bin\Release\net5.0\ref\Notes.Domain.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\bin\Release\net5.0\Notes.Domain.pdb
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\obj\Release\net5.0\Notes.Domain.csproj.AssemblyReference.cache
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\obj\Release\net5.0\Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\obj\Release\net5.0\Notes.Domain.AssemblyInfoInputs.cache
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\obj\Release\net5.0\Notes.Domain.AssemblyInfo.cs
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\obj\Release\net5.0\Notes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\obj\Release\net5.0\Notes.Domain.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\obj\Release\net5.0\ref\Notes.Domain.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.Domain\obj\Release\net5.0\Notes.Domain.pdb
