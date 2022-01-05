@@ -73,3 +73,5 @@ C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Swas
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\obj\Debug\net5.0\Notes.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\andmo\Documents\GitHub\ClearSolution\Notes.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
